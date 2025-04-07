@@ -1,4 +1,4 @@
-package act.1;
+package Act1;
 
 public class TestVehicle {// Base class: Bank Account
     class BankAccount {

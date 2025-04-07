@@ -1,3 +1,4 @@
+package Act3;
 public class person {
     private String name;
     private int id;
